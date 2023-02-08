@@ -1,3 +1,1 @@
-Prints the absolute pathname of the currect work
-
-ing directory
+Prints the absolute pathname of the currect working directory.\n
